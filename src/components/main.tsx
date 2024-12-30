@@ -316,7 +316,7 @@ const Testimonials = () => (
           company="TechCorp"
         />
         <Testimonial
-          text="The team's dedication to our success and their technical expertise sets them apart from other consultants."
+          text="The team&apos;s dedication to our success and their technical expertise sets them apart from other consultants."
           author="David Rodriguez"
           position="CEO"
           company="StartUp Ventures"
@@ -379,7 +379,7 @@ const CaseStudies = () => (
       <div className="text-center mb-16">
         <h2 className="text-3xl font-bold mb-4">Success Stories</h2>
         <p className="text-gray-700 max-w-2xl mx-auto">
-          Discover how we've helped businesses expand their reach through strategic trading partnerships
+          Discover how we&apos;ve helped businesses expand their reach through strategic trading partnerships
         </p>
       </div>
       <div className="grid md:grid-cols-3 gap-8">
